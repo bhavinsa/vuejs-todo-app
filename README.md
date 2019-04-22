@@ -1,4 +1,4 @@
-# Vue Crash Course (TodoList)
+# Vue TodoList
 
 This is the code for the crash course on YouTube
 
